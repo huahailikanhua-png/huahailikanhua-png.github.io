@@ -19,9 +19,9 @@ window.DOWNLOAD_SITE = {
   intro: "欢迎来到我的下载站。下面的资源可以直接点击下载按钮获取。",
   items: [
     {
-      name: "金宝桌面 v1.0.30",
+      name: "金宝桌面 v1.0.33",
       description: "桌面图标整理与备份工具，支持自定义布局、快捷整理与还原。",
-      version: "v1.0.30",
+      version: "v1.0.33",
       size: "8.5 MB",
       date: "2026-11-17",
       file: "https://github.com/huahailikanhua-png/huahailikanhua-png.github.io/releases/download/v1.0.30/JinbaoDesktop-win-Setup.exe",
